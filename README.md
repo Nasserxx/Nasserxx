@@ -65,16 +65,14 @@
 ### 📊 GitHub Activity
 
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nasserxx&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" alt="Nasser's GitHub Stats" />
+ <br/><br/>
     <!-- Activity Graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
       <img alt="Nasser's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Nasserxx&bg_color=1a1b27&color=70a5fd&line=36BCF7&point=FFFFFF&area=true&hide_border=true" />
   </a>
-  <br/><br/>
+   <br/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nasserxx&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" alt="Nasser's GitHub Stats" />
-  <br/>
-  </p>
 
 ---
