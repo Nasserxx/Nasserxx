@@ -75,15 +75,3 @@
 </p>
 
 ---
-
-### 🎓 Education
-
-*   **Bachelor's Degree in Computer Science** - Hochschule Ulm, Germany (Oct 2019 – Mar 2023)
-
----
-
-### 🌐 Languages
-
-*   **Arabic:** Native
-*   **German:** C1 (Hochschule Certificate)
-*   **English:** Good Proficiency
