@@ -8,7 +8,7 @@
 
 <!-- Profile Views Counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_GITHUB_USERNAME profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Nasserxx&label=Profile%20views&color=0e75b6&style=flat" alt="Nasserxx profile views" />
 </p>
 
 <a href="https://www.linkedin.com/in/nasser-awad-0a08b9143/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -17,9 +17,9 @@ _(Optional: nassern502@yahoo.com)_
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" alt="Nasser's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nasserxx&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" alt="Nasser's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasserxx&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -65,11 +65,11 @@ _(Optional: nassern502@yahoo.com)_
 <p align="center">
     <!-- Activity Graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img alt="Nasser's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1b27&color=70a5fd&line=36BCF7&point=FFFFFF&area=true&hide_border=true" />
+      <img alt="Nasser's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Nasserxx&bg_color=1a1b27&color=70a5fd&line=36BCF7&point=FFFFFF&area=true&hide_border=true" />
   </a>
   <br/><br/>
   <!-- Snake Game -->
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
+  <img src="https://github.com/Nasserxx/Nasserxx/blob/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
   <!-- Ensure the snake game file exists in your profile repo at the path above -->
   <!-- Setup Action: https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 </p>
