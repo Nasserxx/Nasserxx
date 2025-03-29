@@ -35,25 +35,9 @@ My professional journey includes roles progressing from IT support and technical
 
 ---
 
-### 🎓 Education
-
-*   **Bachelor's Degree in Computer Science**
-    *   Hochschule Ulm/Germany (Oct 2019 – Mar 2023)
-
----
-
-### 🌐 Languages
-
-*   **Arabic:** Native
-*   **German:** C1 (Hochschule Certificate)
-*   **English:** Good Proficiency
-
----
-
 ### 📫 Let's Connect!
 
 *   Connect with me on [**LinkedIn**](https://www.linkedin.com/in/nasser-awad-0a08b9143/).
-*   _(Optional: Add your email: nassern502@yahoo.com - be mindful of spam if you make it public)_
 
 ---
 
