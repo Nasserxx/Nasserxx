@@ -58,7 +58,6 @@
   </a>
 </p>
 
-*(Note: List includes technologies from across experience based on CV)*
 
 ---
 
