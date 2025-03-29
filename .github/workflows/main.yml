@@ -1,0 +1,45 @@
+name: Generate Snake Animation
+
+on:
+  # Run automatically on a schedule (e.g., daily at midnight UTC)
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+  # Optionally run on pushes to the main branch (uncomment if desired)
+  # push:
+  #   branches:
+  #     - main # Or your default branch name
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Check out your repository content
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Generates the snake contribution grid SVG
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          # Your GitHub username <--- IMPORTANT: Replace placeholder
+          github_user_name: ${{ github.repository_owner }} # Uses the repository owner's name automatically
+          # Specify the output path for the SVG file
+          outputs: dist/github-contribution-grid-snake.svg?palette=github-dark # Example with dark palette
+
+          # Optional: Customize colors (remove the default palette above if using these)
+          # color_snake: "#7E41A2" # Color of the snake
+          # color_dots: "#CCCCC, #BBBBB,#AAAAAA,#99999,#88888" # Colors for contribution dots (comma-separated)
+
+      # Pushes the generated SVG file to the 'output' branch (or a branch you specify)
+      - name: Push Snake Animation
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output # Name of the branch to push the generated SVG to
+          build_dir: dist # Directory containing the generated SVG (matches 'outputs' path without the filename)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub provides this automatically
