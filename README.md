@@ -4,54 +4,56 @@
 
 ---
 
-I'm a passionate and experienced **Senior Information Security Specialist** based in the UAE, with a deep focus on **Governance, Risk, and Compliance (GRC)**, **Cybersecurity**, and **Risk Management**.
+I'm a **Full Stack Engineer** based in Germany with a strong foundation in Computer Science and diverse experience across the software development lifecycle, cloud infrastructure, and IT operations.
 
-My career journey has taken me from hands-on technical IT support roles to progressively specialized positions within information security. I have a proven ability to contribute to building, maintaining, and improving robust security frameworks and controls within various organizational contexts. My experience includes navigating complex security requirements and effectively managing risks.
-
-I also enjoy **creating technical content** related to cybersecurity, aiming to share knowledge and contribute to the community.
+My professional journey includes roles progressing from IT support and technical internships to dedicated Software Developer and Full Stack Engineer positions. I thrive on designing, developing, and maintaining robust web applications and backend services, leveraging modern cloud technologies and DevOps practices. I'm passionate about building efficient, scalable, and secure solutions.
 
 ---
 
 ### 🚀 Core Expertise & Focus Areas
 
-*   **Governance, Risk & Compliance (GRC):** Specializing in the implementation and management of security frameworks, policies, and procedures to meet regulatory needs and manage security risks efficiently.
-*   **Risk Management:** Experienced in identifying, assessing, and mitigating information security risks across different operational environments.
-*   **Cybersecurity Strategy & Operations:** Skilled in contributing to security strategy development, vulnerability management, enhancing security awareness programs, and supporting incident response activities.
-*   **Compliance Frameworks:** Practical experience applying standards like **ISO 27001** and the **NIST Cybersecurity Framework**.
-*   **Security Audits & Assessments:** Proficient in conducting security audits to ensure adherence to standards and pinpoint areas for security enhancement.
-*   **Technical Content Creation:** Developing informative and clear content focused on cybersecurity topics.
+*   **Full Stack Development:** Designing, developing, and maintaining web-based applications, RESTful APIs, and backend services using languages like **C#/.NET, Java/Spring Boot, Python/Django** and frontend frameworks like **AngularJS, Angular, and Vue.js**.
+*   **Cloud Infrastructure & DevOps:** Administering and optimizing **Microsoft Azure** and **AWS** cloud environments. Experienced with Infrastructure as Code (**Pulumi**), CI/CD pipelines (**Azure DevOps**, Jenkins), containerization (**Docker, Docker Compose/Swarm**), and web server/proxy configuration (**Nginx**).
+*   **Database Management:** Managing and optimizing **SQL databases (MySQL, SQL Server concepts)** for high availability and performance, including experience with ORM tools (**Hibernate/JPA**) and cloud storage solutions (**Azure Storage Accounts, Blob Storage**).
+*   **System Engineering & Support:** Monitoring system performance, troubleshooting, managing updates/patches, leading incident response, managing IT security, and providing technical support. Experience with **Ubuntu EC2** administration and **IP Address Management (IPAM)** tools.
+*   **Software Development Practices:** Implementing unit/integration testing (**JUnit, Mockito, Python unittest**), adhering to code quality standards (**SonarQube**), working within **Scrum** methodologies, and utilizing version control (**Git**) and issue tracking (**Jira**).
+*   **Technical Documentation & Collaboration:** Authoring system architecture documentation, API specifications, deployment processes, and contributing to requirements analysis and system design.
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Technical Skills
 
-*   **Security Domains:** Governance, Risk & Compliance (GRC), Risk Assessment & Management, Vulnerability Management, Security Incident Response support, Security Awareness Training, Information Security Policy Development.
-*   **Frameworks & Standards:** ISO 27001, NIST CSF.
-*   **Security Concepts:** Network Security Principles, Endpoint Security Fundamentals, Cloud Security Concepts. *(Adjust based on specific proficiencies if desired)*
-*   **Tools (Conceptual):** Familiarity with concepts behind SIEM solutions, Vulnerability Scanning tools, and security analysis platforms.
-*   **Other:** Foundational IT Support, Technical Documentation, Analytical Problem-Solving.
-
----
-
-### 🎓 Certifications
-
-*   **CISM** - Certified Information Security Manager
-*   **ISO 27001 Lead Auditor** - Information Security Management Systems
-*   **CompTIA Security+**
-*   **Google IT Support Professional Certificate**
+*   **Programming Languages:** C++, Java, Python, C#, R, JavaScript, TypeScript, HTML, CSS, SQL, Shell Scripting
+*   **Backend Frameworks/Technologies:** Spring Boot, ASP.NET Core, Django, Express.js, RESTful APIs, Hibernate (JPA), Nginx
+*   **Frontend Frameworks/Libraries:** Angular, AngularJS, Vue.js, React, jQuery, Bootstrap
+*   **Databases:** MySQL, SQL Server concepts, MongoDB, Azure Blob Storage
+*   **Cloud & DevOps:** Microsoft Azure (Cloud Services, DevOps, Storage), AWS (EC2), Docker, Docker Compose, Docker Swarm, Pulumi (IaC), Jenkins CI/CD
+*   **VR & Visualization:** Unity, C# (for VR), Qt C++
+*   **Networking & Security:** CCNA Concepts, Linux Administration, Security Best Practices (AuthN/AuthZ, Encryption), IPAM
+*   **Tools & Methodologies:** Git, Scrum, Jira, SonarQube, Excel (Advanced Calculation/Modeling)
+*   **Other:** Predictive Maintenance concepts (R), PLC Programming (Basic), Technical Documentation
 
 ---
 
-### 🌱 Currently Exploring / Learning
+### 🎓 Education
 
-*   *(Optional: Add current learning goals, e.g., "Deepening knowledge in cloud security automation", "Exploring AI applications in threat detection", etc.)*
-*   Always eager to engage with new security challenges and contribute to open source projects or discussions.
+*   **Bachelor's Degree in Computer Science**
+    *   Hochschule Ulm/Germany (Oct 2019 – Mar 2023)
+
+---
+
+### 🌐 Languages
+
+*   **Arabic:** Native
+*   **German:** C1 (Hochschule Certificate)
+*   **English:** Good Proficiency
 
 ---
 
 ### 📫 Let's Connect!
 
-*   Find me on [**LinkedIn**](https://www.linkedin.com/in/nasser-awad-0a08b9143/) to connect professionally.
+*   Connect with me on [**LinkedIn**](https://www.linkedin.com/in/nasser-awad-0a08b9143/).
+*   _(Optional: Add your email: nassern502@yahoo.com - be mindful of spam if you make it public)_
 
 ---
 
