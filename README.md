@@ -40,7 +40,7 @@
 *   **Cloud & DevOps:** Azure Cloud/DevOps, AWS (EC2), IaC (Pulumi), CI/CD (Jenkins), Containerization (Docker), Nginx.
 *   **Data Management:** SQL (MySQL), NoSQL concepts (MongoDB), Azure Storage.
 *   **Security & Compliance:** Security Best Practices, AuthN/AuthZ, Encryption, Policy Compliance, Risk Management fundamentals.
-*   **IT Operations:** System Monitoring, Incident Response, Patch Management, Network Troubleshooting (CCNA concepts), IPAM.
+*   **IT Operations:** System Monitoring, Incident Response, Patch Management, Network Troubleshooting, IPAM.
 
 ---
 
